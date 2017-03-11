@@ -1,5 +1,4 @@
 Hola,
-Esta es una carta
-muy corta.
+Esta es una carta.
 
 Adios.
